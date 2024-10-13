@@ -71,5 +71,5 @@ The model will split the dataset into training and testing sets, train the Logis
 
 The Logistic Regression model achieves the following performance:
 
-- **Accuracy**: 98-99% (varies depending on the test/train split).
+- **Accuracy**: 98-99%
 
