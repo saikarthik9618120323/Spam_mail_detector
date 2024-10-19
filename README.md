@@ -40,28 +40,8 @@ spam        | Free entry in 2 a wkly comp to win FA Cup fina...
 2. **Model Training**: Use Logistic Regression to classify emails as spam or ham.
 3. **Evaluation**: Check the model's performance using accuracy and other classification metrics.
 
-## Installation
+   ```
 
-To run this project, you need to have Python installed along with the required libraries. Follow these steps:
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/spam-mail-detection.git
-    cd spam-mail-detection
-    ```
-
-2. Install the required Python libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. Place the dataset (`mail_data.csv`) in the root directory.
-2. Run the `spam_detection.py` script:
-    ```bash
-    python spam_detection.py
-    ```
 
 The model will split the dataset into training and testing sets, train the Logistic Regression model, and print the evaluation results.
 
