@@ -2,8 +2,6 @@
 email spam detection using machine learning techniques.
 utilised logistic regression for classification
 
-Here's a sample README for your spam mail detection project using Logistic Regression:
-
 ---
 
 # Spam Mail Detection
