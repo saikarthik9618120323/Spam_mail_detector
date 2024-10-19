@@ -40,11 +40,6 @@ spam        | Free entry in 2 a wkly comp to win FA Cup fina...
 2. **Model Training**: Use Logistic Regression to classify emails as spam or ham.
 3. **Evaluation**: Check the model's performance using accuracy and other classification metrics.
 
-   ```
-
-
-The model will split the dataset into training and testing sets, train the Logistic Regression model, and print the evaluation results.
-
 ## Model Performance
 
 The Logistic Regression model achieves the following performance:
